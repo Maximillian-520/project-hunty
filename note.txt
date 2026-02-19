@@ -1,0 +1,33 @@
+Requirements:
+a. Input mechanism
+b. Collision detection and handling
+c. Rigidbody physics simulation
+d. Character movement control
+e. 2D sprite graphics
+f. Object spawning and management
+g. Scoring system
+h. Sound effects and music integration
+i. Tilemap creation and management
+j. 2D raycasting
+k. Line rendering
+l. Animation and visual effects
+m. Save and load mechanism for game progress and data
+n. Game logic and mechanics design
+o. User interface design, including graphical user interface elements.
+
+Assets:
+https://maaot.itch.io/mossy-cavern
+https://slashdashgamesstudio.itch.io/cave-background-assets
+https://arcadeisland.itch.io/guns-asset-pack-v1
+
+Nama : Maximillian kenas
+Nim : 28024282715
+
+Berikut untuk progress final project:
+- Sudah ada basic controls dan input
+- Sudah ada collision dan rigidbody
+- Sudah ada sprite dan sedikit animation untuk player
+- Sudah ada tilemap, tapi belum lengkap
+Untuk selanjutnya, akan dibuat core game mechanic dan gameloop beserta melengkapi semua hal yang kurang seperti animation, audio, sprite, dll
+Berikut adalah link GitHub project:
+aaa
